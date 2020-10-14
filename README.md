@@ -1,10 +1,10 @@
-# Panda Simulator
+## Deprecated Branch 
 
-## Deprecated Branch
+Use [`melodic-devel`](https://github.com/justagist/panda_simulator/tree/melodic-devel) or [`kinetic-devel`](https://github.com/justagist/panda_simulator/tree/kinetic-devel) branch.
 
-Has outdated functionalities. May not be compatible with Franka ROS Interface.
+Has outdated functionalities. May not be compatible with current version of [Franka ROS Interface][fri-repo].
 
-Use only for ROS Kinetic install, and only if `kinetic-devel` branch fails.
+Was written for ROS Kinetic install; use only if `kinetic-devel` branch fails.
 
 ### Dependencies
 
@@ -57,4 +57,4 @@ If you use this software, please cite it using [![DOI](https://zenodo.org/badge/
    [fri-repo]: <https://github.com/justagist/franka_ros_interface>
    [fpd-repo]: <https://github.com/justagist/franka_panda_description>
    [libfranka-doc]: <https://frankaemika.github.io/docs/installation_linux.html#building-from-source>
-   [franka-ros]: <https://frankaemika.github.io/docs/franka_ros.html
+   [franka-ros]: <https://frankaemika.github.io/docs/franka_ros.html>
